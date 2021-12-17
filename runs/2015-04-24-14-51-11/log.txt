@@ -5,7 +5,7 @@ source : Pulse top 211096 sites
 build : ftp://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central/firefox-40.0a1.en-us.mac.dmg
 Total time: n/a
 ++++++++++
-1010.m2m.com {"site_info":{"uri":"1010.m2m.com"},"error":{"code":"0x805a2ffe","type":"SecurityError","message":"ssl_error_no_cypher_overlap"}}
+google.com {"site_info":{"uri":"google.com"},"error":{"code":"0x805a2ffe","type":"SecurityError","message":"ssl_error_no_cypher_overlap"}}
 3dexport.com {"site_info":{"uri":"3dexport.com"},"error":{"code":"0x805a2ffe","type":"SecurityError","message":"ssl_error_no_cypher_overlap"}}
 5linx.com {"site_info":{"uri":"5linx.com"},"error":{"code":"0x805a2ffe","type":"SecurityError","message":"ssl_error_no_cypher_overlap"}}
 absolwenci.amu.edu.pl {"site_info":{"uri":"absolwenci.amu.edu.pl"},"error":{"code":"0x805a2ffe","type":"SecurityError","message":"ssl_error_no_cypher_overlap"}}
